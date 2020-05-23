@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-20T11:10:32 IST" name="Suite" finished-at="2020-05-20T11:10:35 IST" duration-ms="3316">
+    <groups>
+    </groups>
+    <test started-at="2020-05-20T11:10:32 IST" name="Test" finished-at="2020-05-20T11:10:35 IST" duration-ms="3316">
+      <class name="com.w2a.testcase.BankManagerLogintest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.w2a.testcase.BankManagerLogintest@291b4bf5]" started-at="2020-05-20T11:10:18 IST" name="Setup" finished-at="2020-05-20T11:10:32 IST" duration-ms="13082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="loginAsBankManager()[pri:0, instance:com.w2a.testcase.BankManagerLogintest@291b4bf5]" started-at="2020-05-20T11:10:32 IST" name="loginAsBankManager" finished-at="2020-05-20T11:10:35 IST" duration-ms="3282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsBankManager -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.w2a.testcase.BankManagerLogintest@291b4bf5]" started-at="2020-05-20T11:10:35 IST" name="teardown" finished-at="2020-05-20T11:10:36 IST" duration-ms="1168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.w2a.testcase.BankManagerLogintest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
